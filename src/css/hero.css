@@ -1,0 +1,13 @@
+.hero {
+  background-color: red;
+}
+.hero-list {
+  display: flex;
+  gap: 40px;
+}
+.hero-item {
+  background-color: aliceblue;
+}
+.hero-title {
+  color: blue;
+}
